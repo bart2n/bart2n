@@ -28,6 +28,7 @@
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
@@ -67,7 +68,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge)
 
 ---
 
