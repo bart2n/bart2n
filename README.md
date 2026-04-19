@@ -1,8 +1,6 @@
 <img width="1536" height="1024" alt="ChatGPT Image Apr 19, 2026, 12_27_06 PM" src="https://github.com/user-attachments/assets/8f1611f6-ae69-4dbd-bf18-1812584d46a0" />
 
 
-
-
 # Ahmet Bartu Nak 👨‍💻
 🚀 Full-stack Developer (React + Django)  
 ⚡ Building scalable web apps & real-time systems  
