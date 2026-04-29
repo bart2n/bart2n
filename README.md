@@ -1,6 +1,6 @@
 <img width="1400" height="350" alt="1776591277041" src="https://github.com/user-attachments/assets/9fa47e59-8d7e-4334-a289-c9200837f7c8" />
 
-# Ahmet Bartu Nak 👨‍💻
+# Ahmet Bartu NAK 👨‍💻
 🚀 Full-stack Developer (React + Django)  
 ⚡ Building scalable web apps & real-time systems  
 
