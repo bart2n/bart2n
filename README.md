@@ -1,4 +1,17 @@
 <img width="1400" height="350" alt="1776591277041" src="https://github.com/user-attachments/assets/9fa47e59-8d7e-4334-a289-c9200837f7c8" />
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=bart2n&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+    alt="Profile views" 
+  />
+  
+  <a href="https://github.com/bart2n?tab=followers">
+    <img 
+      src="https://img.shields.io/github/followers/bart2n?label=Followers&style=for-the-badge&color=blue" 
+      alt="GitHub followers" 
+    />
+  </a>
+</p>
 
 # Ahmet Bartu NAK 👨‍💻
 🚀 Full-stack Developer (React + Django)  
@@ -91,9 +104,18 @@
 
 ## 📊 GitHub Stats
 
-![Bartu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bart2n&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=bart2n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  />
+  
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bart2n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bart2n&layout=compact&theme=tokyonight)
 
 ---
 
