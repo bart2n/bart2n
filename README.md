@@ -104,17 +104,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=bart2n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
+  <a href="https://github.com/bart2n">
+    <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=bart2n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
 
-  <img
-    height="180em"
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bart2n&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <a href="https://github.com/bart2n">
+    <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bart2n&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
-
 
 ---
 
