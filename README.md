@@ -22,20 +22,23 @@
 ## 🧠 About Me
 - 💻 Focused on **Full-Stack Web Development**
 - ⚡ Experience with **real-time systems (WebSockets, Redis)**
-- ☁️ Working with **AWS, Docker & CI/CD**
+- ☁️ Working with **AWS,Vercel,Docker & CI/CD**
 - 🧩 Interested in **backend architecture & system design**
 
 ---
 
-## 🚀 Main Project
+### 🛣️ VeiHjelp — Roadside Assistance App `Main project`
+- A "digital dugnad" mobile app connecting stranded drivers with verified helpers nearby.
+- React Native + Node JS as backend
+- Trust & verification profile, subscription plans, settings
+- TypeScript, component-driven architecture
 
-### 📚 Carpedu (Learning Management System)
-- Full-stack LMS platform  
-- React frontend + Django REST backend  
-- Course, user, and content management  
-- Admin panel & API-based architecture  
-- Scalable backend design  
-
+### 📚 Carpedu — Learning Management System `Previous`
+- Full-stack LMS platform
+- React frontend + Django REST backend
+- Course, user, and content management
+- Admin panel & API-based architecture
+- Scalable backend design
 ---
 
 ## 🛠️ Tech Stack
