@@ -174,28 +174,105 @@ const ahmetBartuNak = {
 ## 💼 Experience
 
 <details>
-<summary><b>🏢 Doğuş Teknoloji — Software Development / Engineering</b></summary>
+## 💼 Experience
+
+<details>
+<summary><b>🚀 B2 Software Solutions — Full Stack Engineer</b></summary>
 
 <br/>
 
-* 💻 Full-stack development in enterprise-oriented applications
-* ⚙️ Worked with modern web technologies and backend systems
-* 🏗️ Contributed to scalable application architecture
-* 🔄 Worked within Agile development processes
+**Freelance · Feb 2026 – Present · Remote**
+
+* 🤖 Developing social media bots and automation systems
+* ⚙️ Building full-stack applications and automation workflows
+* 🔄 Developing backend services and integrations
+* 🏗️ Designing scalable and maintainable application architectures
+* 🚀 Working on production-oriented software solutions
 
 </details>
 
 <details>
-<summary><b>💻 Software Development Experience</b></summary>
+<summary><b>🛣️ VeiHjelp — Full Stack Engineer</b></summary>
 
 <br/>
 
-* 🚀 Full-stack web application development
-* 🐍 Django & Django REST Framework
-* ⚛️ React-based frontend development
-* 🔌 Real-time communication using WebSockets
-* 🔴 Redis-based systems
-* ☁️ Cloud deployment and infrastructure
+**Contract · Apr 2026 – Present · Norway · Remote**
+
+* 🌐 Built the VeiHjelp website using **Next.js**
+* 📱 Developed the frontend for the mobile application using **React Native**
+* ⚙️ Developed the backend using **Node.js**
+* 🔐 Implemented authentication and user-related functionality
+* 🧩 Built reusable and component-driven application architecture
+* 🏗️ Worked across frontend, mobile and backend systems
+* 🚀 Contributed to the development of a roadside assistance platform
+
+🔗 [VeiHjelp](https://veih-jelp.vercel.app/)
+
+</details>
+
+<details>
+<summary><b>🌐 dpointgroup — Web Developer</b></summary>
+
+<br/>
+
+**Internship · Jun 2026 – Aug 2026 · Greater Barcelona Metropolitan Area · Hybrid**
+
+* 💻 Developed and maintained websites for different projects
+* 🎨 Built responsive and modern web interfaces
+* ⚙️ Worked on multiple production-oriented web projects
+* 🚀 Developed websites using modern frontend technologies
+* 🔧 Contributed to multiple client-focused web development projects
+
+**Selected Projects:**
+
+* 🏝️ [Hillside](https://github.com/bart2n/Hillside)
+* 🌊 [Aquarise](https://github.com/bart2n/aquarise)
+* 🏢 [Bugatti Residences](https://github.com/bart2n/bugattiresidences)
+* 🏙️ [Binghatti Sky Rise](https://github.com/bart2n/binghattiskyrise)
+* 🏛️ [Ivory](https://github.com/bart2n/Ivory)
+* 🌌 [Aurora](https://github.com/bart2n/aurora)
+* 🧮 [Morgate Calculator](https://github.com/bart2n/morgate-calculator)
+
+</details>
+
+<details>
+<summary><b>💻 Getap — Full-Stack Developer</b></summary>
+
+<br/>
+
+**Full-time · Jan 2025 – Apr 2026 · Remote**
+
+* 🚀 Developed full-stack web applications
+* 🐍 Worked with **Django & Django REST Framework**
+* ⚛️ Developed modern frontend applications with **React**
+* 🔌 Implemented real-time communication using **WebSockets**
+* 🔴 Worked with **Redis** and asynchronous systems
+* 🐳 Used **Docker** for development and deployment
+* ☁️ Worked with cloud infrastructure and application deployment
+* 🔐 Developed authentication and authorization systems
+* 🌐 Managed website deployment and production environments
+* 🔄 Worked with **Git** and collaborative development workflows
+
+</details>
+
+<details>
+<summary><b>🧑‍💻 Getap — Intern</b></summary>
+
+<br/>
+
+**Internship · Dec 2023 – Jan 2025 · Remote**
+
+* 💻 Contributed to web application development
+* 🐍 Worked with **Python & Django**
+* ⚛️ Worked on frontend development
+* 🌐 Assisted with website deployment and maintenance
+* 🔧 Used **Git** and collaborative development workflows
+* 🚀 Gained hands-on experience with production-oriented software development
+
+</details>
+---
+</div>
+
 
 </details>
 
