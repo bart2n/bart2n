@@ -65,23 +65,36 @@ const ahmetBartuNak = {
 
 ### 💻 Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75"/>
-
-<br/><br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="75"/>
-
-<br/>
-
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="75"/><br/>
+<b>Python</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="75"/><br/>
+<b>JavaScript</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="75"/><br/>
+<b>TypeScript</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="75"/><br/>
+<b>Java</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="75"/><br/>
+<b>C#</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="75"/><br/>
 <b>SQL</b>
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -89,21 +102,36 @@ const ahmetBartuNak = {
 
 ### ⚙️ Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="75"/>
-
-<br/><br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="75"/>
-
-<br/><br/>
-
-<b>Django REST Framework · Celery · Redis</b>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=django&theme=dark" width="75"/><br/>
+<b>Django</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="75"/><br/>
+<b>NestJS</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="75"/><br/>
+<b>Next.js</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="75"/><br/>
+<b>Redis</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=celery&theme=dark" width="75"/><br/>
+<b>Celery</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=django&theme=dark" width="75"/><br/>
+<b>DRF</b>
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -115,23 +143,44 @@ const ahmetBartuNak = {
 
 ### 🎨 Frontend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="75"/>
-
-<br/><br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="75"/>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="75"/><br/>
+<b>React</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="75"/><br/>
+<b>Next.js</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="75"/><br/>
+<b>Flutter</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redux&theme=dark" width="75"/><br/>
+<b>Redux</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="75"/><br/>
+<b>Tailwind</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="75"/><br/>
+<b>Bootstrap</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="75"/><br/>
+<b>HTML5</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="75"/><br/>
+<b>CSS3</b>
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -139,21 +188,33 @@ const ahmetBartuNak = {
 
 ### 🔌 Real-Time & Systems
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webrtc/webrtc-original.svg" width="75"/>
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/websocket/FFFFFF" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/coturn/FFFFFF" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/agora/099DFD" width="75"/>
-
-<br/><br/>
-
-<b>WebSocket · WebRTC · Coturn · Redis · AgoraRTC</b>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="75"/><br/>
+<b>Redis</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=webrtc&theme=dark" width="75"/><br/>
+<b>WebRTC</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/websocket/FFFFFF" width="65"/><br/>
+<b>WebSocket</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/coturn/FFFFFF" width="65"/><br/>
+<b>Coturn</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/agora/099DFD" width="65"/><br/>
+<b>AgoraRTC</b>
+</td>
+<td></td>
+</tr>
+</table>
 
 </td>
 
@@ -165,29 +226,44 @@ const ahmetBartuNak = {
 
 ### ☁️ DevOps & Cloud
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="75"/>
-
-<br/><br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75"/>
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/uvicorn/FFFFFF" width="75"/>
-
-<br/>
-
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="75"/><br/>
+<b>Docker</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="75"/><br/>
+<b>Nginx</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="75"/><br/>
+<b>AWS</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="75"/><br/>
+<b>Firebase</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="75"/><br/>
+<b>Kubernetes</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="75"/><br/>
+<b>GitHub Actions</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="75"/><br/>
+<b>Linux</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/uvicorn/FFFFFF" width="65"/><br/>
 <b>Uvicorn</b>
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -199,13 +275,22 @@ const ahmetBartuNak = {
 
 ### 🗄️ Database
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="75"/>
-
-<br/><br/>
-
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="75"/><br/>
+<b>PostgreSQL</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="75"/><br/>
+<b>SQLite</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="65"/><br/>
 <b>T-SQL</b>
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -213,23 +298,33 @@ const ahmetBartuNak = {
 
 ### ⚙️ Other
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="75"/>
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/smtp/FFFFFF" width="75"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/payment/FFFFFF" width="75"/>
-
-<br/><br/>
-
-<b>SMTP · Payment Gateways</b>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="75"/><br/>
+<b>Git</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="75"/><br/>
+<b>Vite</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/maildotru/FFFFFF" width="65"/><br/>
+<b>SMTP</b>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<img src="https://cdn.simpleicons.org/stripe/FFFFFF" width="65"/><br/>
+<b>Payment Gateways</b>
+</td>
+</tr>
+</table>
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
