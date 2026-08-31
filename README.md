@@ -220,7 +220,7 @@ const ahmetBartuNak = {
 
 
 
-<details>
+
 <summary><b>💻 Getap — Full-Stack Developer</b></summary>
 
 <br/>
