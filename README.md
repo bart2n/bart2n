@@ -32,14 +32,12 @@
 const ahmetBartuNak = {
   role        : "Full-Stack Software Engineer",
   university  : "Istanbul Okan University — Information Systems and Technologies",
-  location    : "İstanbul, Türkiye 🇹🇷",
   stack       : {
     frontend  : ["React", "Next.js", "React Native", "Redux", "Tailwind CSS"],
     backend   : ["Django", "Django REST Framework", "Node.js", "NestJS", "Celery"],
     database  : ["PostgreSQL", "MongoDB", "SQLite", "Redis"],
     devops    : ["Docker", "Nginx", "AWS", "Kubernetes", "GitHub Actions"],
   },
-  interests   : ["Backend Architecture", "DevOps", "System Design", "AI Apps 🤖"],
   building    : "🛣️ VeiHjelp — Roadside Assistance App",
 };
 ```
@@ -336,40 +334,6 @@ A full-stack Learning Management System designed for managing courses, users and
 
 <td width="50%" valign="top">
 
-### 💬 Real-Time Messaging Application
-
-![Django](https://img.shields.io/badge/Django-161B22?style=flat-square\&logo=django\&logoColor=44B78B)
-![Redis](https://img.shields.io/badge/Redis-161B22?style=flat-square\&logo=redis\&logoColor=DC382D)
-![WebSocket](https://img.shields.io/badge/WebSocket-161B22?style=flat-square)
-
-A real-time messaging platform focused on scalable communication infrastructure.
-
-* 🐍 Django
-* ⚡ Django Channels
-* 🔴 Redis
-* 🔌 WebSockets
-* 👤 Authentication & authorization
-* 💬 Real-time messaging
-* 🏗️ Async backend architecture
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📹 Video Calling Application
-
-![React](https://img.shields.io/badge/React-161B22?style=flat-square\&logo=react\&logoColor=61DAFB)
-![WebRTC](https://img.shields.io/badge/WebRTC-161B22?style=flat-square\&logo=webrtc\&logoColor=333333)
-![Coturn](https://img.shields.io/badge/Coturn-161B22?style=flat-square)
-
-A real-time video communication application built around WebRTC infrastructure.
-
-* ⚛️ React
-* 🔌 WebRTC
-* 🛰️ WebSocket signaling
-* 🌐 Coturn
-* 🔊 Real-time communication
-* 🏗️ Peer-to-peer architecture
 
 </td>
 
