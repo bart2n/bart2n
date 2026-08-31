@@ -17,13 +17,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20Bartu%20Nak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 
-<br/><br/>
+
 
 <img src="https://komarev.com/ghpvc/?username=bart2n&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
-<br/>
 
 ---
 
@@ -260,37 +259,6 @@ A full-stack Learning Management System designed for managing courses, users and
 </div>
 
 ---
-
-
-
-
-
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ahmet-bartu-nak-13b9b9154">
-  <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20Bartu%20Nak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-</a>
-
- 
-
-<a href="https://github.com/bart2n">
-  <img src="https://img.shields.io/badge/GitHub-bart2n-161B22?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=bart2n&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
 
 ### ⚡ Build. Deploy. Scale. Repeat.
 
