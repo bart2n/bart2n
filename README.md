@@ -169,12 +169,12 @@ const ahmetBartuNak = {
 
 ---
 
+
+
+
 ## 💼 Experience
 
-<details>
-## 💼 Experience
 
-<details>
 <summary><b>🚀 B2 Software Solutions — Full Stack Engineer</b></summary>
 
 <br/>
@@ -187,9 +187,7 @@ const ahmetBartuNak = {
 * 🏗️ Designing scalable and maintainable application architectures
 * 🚀 Working on production-oriented software solutions
 
-</details>
 
-<details>
 <summary><b>🛣️ VeiHjelp — Full Stack Engineer</b></summary>
 
 <br/>
@@ -206,9 +204,7 @@ const ahmetBartuNak = {
 
 🔗 [VeiHjelp](https://veih-jelp.vercel.app/)
 
-</details>
 
-<details>
 <summary><b>🌐 dpointgroup — Web Developer</b></summary>
 
 <br/>
@@ -251,9 +247,8 @@ const ahmetBartuNak = {
 * 🌐 Managed website deployment and production environments
 * 🔄 Worked with **Git** and collaborative development workflows
 
-</details>
 
-<details>
+
 <summary><b>🧑‍💻 Getap — Intern</b></summary>
 
 <br/>
@@ -267,12 +262,12 @@ const ahmetBartuNak = {
 * 🔧 Used **Git** and collaborative development workflows
 * 🚀 Gained hands-on experience with production-oriented software development
 
-</details>
+
 ---
 </div>
 
 
-</details>
+
 
 ---
 
@@ -344,24 +339,6 @@ A full-stack Learning Management System designed for managing courses, users and
 
 ---
 
-## 🏗️ Architecture & Engineering
-
-<div align="center">
-
-![REST API](https://img.shields.io/badge/RESTful_API-161B22?style=for-the-badge\&logoColor=58A6FF)
-![MVC](https://img.shields.io/badge/MVC_Architecture-161B22?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT_Authentication-161B22?style=for-the-badge\&logo=jsonwebtokens)
-![RBAC](https://img.shields.io/badge/RBAC-161B22?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-161B22?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-161B22?style=for-the-badge\&logo=redis)
-![Docker](https://img.shields.io/badge/Containerization-161B22?style=for-the-badge\&logo=docker)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-161B22?style=for-the-badge\&logo=githubactions)
-![AWS](https://img.shields.io/badge/AWS_Cloud-161B22?style=for-the-badge\&logo=amazonaws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-161B22?style=for-the-badge\&logo=kubernetes)
-
-</div>
-
----
 
 ## 📊 GitHub Statistics
 
@@ -399,31 +376,7 @@ A full-stack Learning Management System designed for managing courses, users and
 
 ---
 
-## 🏅 Certificates
 
-<div align="center">
-
-![React Frontend](https://img.shields.io/badge/⚛️%20React%20Frontend%20Development-161B22?style=for-the-badge\&labelColor=0D1117)
-![Node.js Backend](https://img.shields.io/badge/🟢%20Node.js%20Backend-161B22?style=for-the-badge\&labelColor=0D1117)
-![Google Project Management](https://img.shields.io/badge/📋%20Google%20Project%20Management-161B22?style=for-the-badge\&labelColor=0D1117)
-![React Revolution](https://img.shields.io/badge/⚛️%20React%20Revolution-161B22?style=for-the-badge\&labelColor=0D1117)
-
-</div>
-
----
-
-## 🌟 Interests
-
-<div align="center">
-
-![3D Printing](https://img.shields.io/badge/🖨️%203D%20Printing-161B22?style=for-the-badge\&labelColor=0D1117)
-![Motion Graphics](https://img.shields.io/badge/🎬%20Motion%20Graphics-161B22?style=for-the-badge\&labelColor=0D1117)
-![Motorcycle](https://img.shields.io/badge/🏍️%20Motorcycle-161B22?style=for-the-badge\&labelColor=0D1117)
-![AI Apps](https://img.shields.io/badge/🤖%20AI%20Apps-161B22?style=for-the-badge\&labelColor=0D1117)
-
-</div>
-
----
 
 ## 🌐 Portfolio
 
