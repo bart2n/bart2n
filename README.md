@@ -260,15 +260,6 @@ A full-stack Learning Management System designed for managing courses, users and
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bart2n&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
-</div>
-
----
 
 
 
