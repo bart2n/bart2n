@@ -1,27 +1,50 @@
-<img width="1400" height="350" alt="Profile Banner" src="https://github.com/user-attachments/assets/9fa47e59-8d7e-4334-a289-c9200837f7c8" />
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=bart2n&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
-    alt="Profile views" 
-  />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:0d1117&height=220&text=Ahmet%20Bartu%20NAK&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=65&descAlign=50&descColor=8B949E" width="100%"/>
 
-  <a href="https://github.com/bart2n?tab=followers">
-    <img 
-      src="https://img.shields.io/github/followers/bart2n?label=Followers&style=for-the-badge&color=blue" 
-      alt="GitHub followers" 
-    />
-  </a>
-</p>
+<br/>
 
-# Ahmet Bartu NAK 👨‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=19\&pause=1200\&color=58A6FF\&background=0D111700\&center=true\&vCenter=true\&random=false\&width=750\&height=50\&lines=Full-Stack+Developer+%7C+React+%26+Django+%F0%9F%9A%80;Backend+Development+%7C+Node.js+%26+Django+%F0%9F%94%A5;Real-Time+Systems+%7C+WebSockets+%7C+Redis+%F0%9F%94%97;Cloud+%26+DevOps+%7C+AWS+%7C+Docker+%7C+Kubernetes+%E2%98%81%EF%B8%8F;Building+Scalable+%26+Production-Ready+Applications+%E2%9A%A1)](https://git.io/typing-svg)
 
-🚀 **Full-Stack Software Engineer**
-⚡ Building scalable web applications, real-time systems & cloud infrastructure
+<br/>
+
+<a href="https://github.com/bart2n">
+  <img src="https://img.shields.io/badge/GitHub-bart2n-161B22?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ahmet-bartu-nak-13b9b9154">
+  <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20Bartu%20Nak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bart2n&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+
+<br/>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 Hakkımda
+
+```typescript
+const ahmetBartuNak = {
+  role        : "Full-Stack Software Engineer",
+  university  : "Istanbul Okan University — Information Systems and Technologies",
+  location    : "İstanbul, Türkiye 🇹🇷",
+  stack       : {
+    frontend  : ["React", "Next.js", "React Native", "Redux", "Tailwind CSS"],
+    backend   : ["Django", "Django REST Framework", "Node.js", "NestJS", "Celery"],
+    database  : ["PostgreSQL", "MongoDB", "SQLite", "Redis"],
+    devops    : ["Docker", "Nginx", "AWS", "Kubernetes", "GitHub Actions"],
+  },
+  interests   : ["Backend Architecture", "DevOps", "System Design", "AI Apps 🤖"],
+  building    : "🛣️ VeiHjelp — Roadside Assistance App",
+};
+```
+
+> 🚀 **Full-Stack Software Engineer** focused on building scalable web applications, real-time systems and cloud infrastructure.
 
 * 💻 Focused on **Full-Stack Web Development**
 * ⚙️ Building applications with **React, Django & Node.js**
@@ -33,9 +56,167 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs&theme=dark&perline=5"/>
+
+<br/>
+
+![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square\&logo=postgresql\&logoColor=4169E1)
+
+</td>
+
+<td align="center" width="50%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=django,nodejs,nestjs,express&theme=dark&perline=4"/>
+
+<br/>
+
+![Django REST](https://img.shields.io/badge/Django_REST_Framework-161B22?style=flat-square\&logo=django\&logoColor=44B78B)
+![Celery](https://img.shields.io/badge/Celery-161B22?style=flat-square\&logo=celery\&logoColor=37814A)
+![JWT](https://img.shields.io/badge/JWT-161B22?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark&perline=6"/>
+
+<br/>
+
+![React Native](https://img.shields.io/badge/React_Native-161B22?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-161B22?style=flat-square\&logo=bootstrap\&logoColor=7952B3)
+
+</td>
+
+<td align="center" width="50%">
+
+### 🔌 Real-Time & Systems
+
+<img src="https://skillicons.dev/icons?i=redis&theme=dark&perline=5"/>
+
+<br/>
+
+![WebSocket](https://img.shields.io/badge/WebSockets-161B22?style=flat-square\&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-161B22?style=flat-square\&logo=webrtc\&logoColor=333333)
+![Coturn](https://img.shields.io/badge/Coturn-161B22?style=flat-square\&logoColor=00599C)
+![Agora](https://img.shields.io/badge/AgoraRTC-161B22?style=flat-square\&logoColor=099DFD)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" colspan="2">
+
+### ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,kubernetes,githubactions,linux&theme=dark&perline=6"/>
+
+<br/>
+
+![Uvicorn](https://img.shields.io/badge/Uvicorn-161B22?style=flat-square\&logo=uvicorn\&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-161B22?style=flat-square\&logo=gunicorn\&logoColor=499848)
+![Firebase](https://img.shields.io/badge/Firebase-161B22?style=flat-square\&logo=firebase\&logoColor=FFCA28)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis&theme=dark&perline=4"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧰 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vite,postman,figma&theme=dark&perline=5"/>
+
+<br/>
+
+![Swagger](https://img.shields.io/badge/Swagger-161B22?style=flat-square\&logo=swagger\&logoColor=85EA2D)
+![Axios](https://img.shields.io/badge/Axios-161B22?style=flat-square\&logo=axios\&logoColor=5A29E4)
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Experience
+
+<details>
+<summary><b>🏢 Doğuş Teknoloji — Software Development / Engineering</b></summary>
+
+<br/>
+
+* 💻 Full-stack development in enterprise-oriented applications
+* ⚙️ Worked with modern web technologies and backend systems
+* 🏗️ Contributed to scalable application architecture
+* 🔄 Worked within Agile development processes
+
+</details>
+
+<details>
+<summary><b>💻 Software Development Experience</b></summary>
+
+<br/>
+
+* 🚀 Full-stack web application development
+* 🐍 Django & Django REST Framework
+* ⚛️ React-based frontend development
+* 🔌 Real-time communication using WebSockets
+* 🔴 Redis-based systems
+* ☁️ Cloud deployment and infrastructure
+
+</details>
+
+---
+
 ## 🚀 Featured Projects
 
-### 🛣️ VeiHjelp — Roadside Assistance Platform `Main Project`
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛣️ VeiHjelp
+
+**Roadside Assistance App** `Main Project`
+
+![React Native](https://img.shields.io/badge/React_Native-161B22?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square\&logo=node.js\&logoColor=3FB950)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square\&logo=typescript\&logoColor=3178C6)
 
 A digital roadside assistance platform connecting stranded drivers with verified helpers nearby.
 
@@ -44,12 +225,20 @@ A digital roadside assistance platform connecting stranded drivers with verified
 * 🔐 Authentication & user verification
 * 👤 Trust and verification profiles
 * 💳 Subscription-based plans
-* ⚙️ TypeScript & component-driven architecture
+* 🧩 TypeScript & component-driven architecture
 * 🏗️ Scalable backend architecture
 
----
+</td>
 
-### 📚 Carpedu — Learning Management System `Previous`
+<td width="50%" valign="top">
+
+### 📚 Carpedu
+
+**Learning Management System** `Previous`
+
+![React](https://img.shields.io/badge/React-161B22?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-161B22?style=flat-square\&logo=django\&logoColor=44B78B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square\&logo=postgresql\&logoColor=4169E1)
 
 A full-stack Learning Management System designed for managing courses, users and educational content.
 
@@ -62,9 +251,19 @@ A full-stack Learning Management System designed for managing courses, users and
 * 🗄️ PostgreSQL database
 * 🐳 Dockerized development environment
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 💬 Real-Time Messaging Application
+
+![Django](https://img.shields.io/badge/Django-161B22?style=flat-square\&logo=django\&logoColor=44B78B)
+![Redis](https://img.shields.io/badge/Redis-161B22?style=flat-square\&logo=redis\&logoColor=DC382D)
+![WebSocket](https://img.shields.io/badge/WebSocket-161B22?style=flat-square)
 
 A real-time messaging platform focused on scalable communication infrastructure.
 
@@ -76,11 +275,17 @@ A real-time messaging platform focused on scalable communication infrastructure.
 * 💬 Real-time messaging
 * 🏗️ Async backend architecture
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 📹 Video Calling Application
 
-Real-time video communication platform designed around WebRTC infrastructure.
+![React](https://img.shields.io/badge/React-161B22?style=flat-square\&logo=react\&logoColor=61DAFB)
+![WebRTC](https://img.shields.io/badge/WebRTC-161B22?style=flat-square\&logo=webrtc\&logoColor=333333)
+![Coturn](https://img.shields.io/badge/Coturn-161B22?style=flat-square)
+
+A real-time video communication application built around WebRTC infrastructure.
 
 * ⚛️ React
 * 🔌 WebRTC
@@ -89,152 +294,136 @@ Real-time video communication platform designed around WebRTC infrastructure.
 * 🔊 Real-time communication
 * 🏗️ Peer-to-peer architecture
 
----
+</td>
 
-## 🛠️ Tech Stack
+</tr>
+</table>
 
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
----
-
-### ⚙️ Backend
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge\&logo=celery\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-
----
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
----
-
-### 🔌 Real-Time & Systems
-
-![WebSocket](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
-![Django Channels](https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge\&logo=webrtc\&logoColor=white)
-![Coturn](https://img.shields.io/badge/Coturn-00599C?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge\&logo=agora\&logoColor=white)
-
----
-
-### ☁️ DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge\&logo=uvicorn\&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge\&logo=gunicorn\&logoColor=white)
-
----
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-
----
-
-### 🧰 Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+</div>
 
 ---
 
 ## 🏗️ Architecture & Engineering
 
-* 🧩 RESTful API Design
-* 🏛️ MVC & Layered Architecture
-* 🔐 JWT Authentication
-* 👥 Role-Based Access Control (RBAC)
-* ⚡ Asynchronous Processing
-* 🔌 WebSocket Architecture
-* 🔴 Redis Caching & Messaging
-* 🐳 Containerized Applications
-* ☁️ AWS Cloud Infrastructure
-* 🔄 CI/CD Pipelines
-* ☸️ Kubernetes
-* 🌐 Reverse Proxy & Load Management
-* 🧪 API Testing & Documentation
+<div align="center">
+
+![REST API](https://img.shields.io/badge/RESTful_API-161B22?style=for-the-badge\&logoColor=58A6FF)
+![MVC](https://img.shields.io/badge/MVC_Architecture-161B22?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT_Authentication-161B22?style=for-the-badge\&logo=jsonwebtokens)
+![RBAC](https://img.shields.io/badge/RBAC-161B22?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-161B22?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-161B22?style=for-the-badge\&logo=redis)
+![Docker](https://img.shields.io/badge/Containerization-161B22?style=for-the-badge\&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-161B22?style=for-the-badge\&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS_Cloud-161B22?style=for-the-badge\&logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-161B22?style=for-the-badge\&logo=kubernetes)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://github.com/bart2n">
-    <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=bart2n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </a>
+<div align="center">
 
-  <a href="https://github.com/bart2n">
-    <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bart2n&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<a href="https://github.com/bart2n">
+  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api?username=bart2n&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=8B949E"/>
+</a>
+
+<a href="https://github.com/bart2n">
+  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bart2n&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
+</a>
+
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=bart2n&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bart2n&theme=dark&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=FF7B72&currStreakNum=FFFFFF&currStreakLabel=58A6FF&sideNums=FFFFFF&sideLabels=58A6FF&dates=8B949E"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bart2n&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+</div>
+
+---
+
+## 🏅 Certificates
+
+<div align="center">
+
+![React Frontend](https://img.shields.io/badge/⚛️%20React%20Frontend%20Development-161B22?style=for-the-badge\&labelColor=0D1117)
+![Node.js Backend](https://img.shields.io/badge/🟢%20Node.js%20Backend-161B22?style=for-the-badge\&labelColor=0D1117)
+![Google Project Management](https://img.shields.io/badge/📋%20Google%20Project%20Management-161B22?style=for-the-badge\&labelColor=0D1117)
+![React Revolution](https://img.shields.io/badge/⚛️%20React%20Revolution-161B22?style=for-the-badge\&labelColor=0D1117)
+
+</div>
+
+---
+
+## 🌟 Interests
+
+<div align="center">
+
+![3D Printing](https://img.shields.io/badge/🖨️%203D%20Printing-161B22?style=for-the-badge\&labelColor=0D1117)
+![Motion Graphics](https://img.shields.io/badge/🎬%20Motion%20Graphics-161B22?style=for-the-badge\&labelColor=0D1117)
+![Motorcycle](https://img.shields.io/badge/🏍️%20Motorcycle-161B22?style=for-the-badge\&labelColor=0D1117)
+![AI Apps](https://img.shields.io/badge/🤖%20AI%20Apps-161B22?style=for-the-badge\&labelColor=0D1117)
+
+</div>
 
 ---
 
 ## 🌐 Portfolio
 
-<p align="center">
-  <a href="https://github.com/bart2n">
-    <img src="https://img.shields.io/badge/GitHub-bart2n-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/bart2n">
+  <img src="https://img.shields.io/badge/GitHub-bart2n-161B22?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117"/>
+</a>
+
+</div>
 
 ---
 
 ## 📫 Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmet-bartu-nak-13b9b9154">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20Bartu%20Nak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ahmet-bartu-nak-13b9b9154">
+  <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20Bartu%20Nak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+
+ 
+
+<a href="https://github.com/bart2n">
+  <img src="https://img.shields.io/badge/GitHub-bart2n-161B22?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bart2n&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117"/>
+
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
-  <b>⚡ Build. Deploy. Scale. Repeat.</b>
-</p>
+<div align="center">
+
+### ⚡ Build. Deploy. Scale. Repeat.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer&reversal=false" width="100%"/>
