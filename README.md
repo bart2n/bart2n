@@ -263,17 +263,7 @@ A full-stack Learning Management System designed for managing courses, users and
 
 
 
-## 🌐 Portfolio
 
-<div align="center">
-
-<a href="https://github.com/bart2n">
-  <img src="https://img.shields.io/badge/GitHub-bart2n-161B22?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117"/>
-</a>
-
-</div>
-
----
 
 ## 📫 Contact
 
