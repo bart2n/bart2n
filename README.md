@@ -65,11 +65,17 @@ const ahmetBartuNak = {
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs&theme=dark&perline=5" height="80"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="80"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="80"/>
+
+<br/><br/>
+
+<b>SQL</b>
 
 </td>
 
@@ -77,13 +83,19 @@ const ahmetBartuNak = {
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=django,nestjs,nextjs&theme=dark&perline=3"/>
+<img src="https://skillicons.dev/icons?i=django,nestjs,nextjs&theme=dark&perline=3" height="80"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/djangorestframework/FF1709" height="80"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/celery/37814A" height="80"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/redis/DC382D" height="80"/>
+
+<br/><br/>
+
+<b>Django REST Framework · Celery · Redis</b>
 
 </td>
 
@@ -95,7 +107,7 @@ const ahmetBartuNak = {
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,redux,tailwind,bootstrap,html,css&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,redux,tailwind,bootstrap,html,css&theme=dark&perline=4" height="80"/>
 
 </td>
 
@@ -103,14 +115,21 @@ const ahmetBartuNak = {
 
 ### 🔌 Real-Time & Systems
 
-<img src="https://skillicons.dev/icons?i=redis&theme=dark&perline=1"/>
+<img src="https://cdn.simpleicons.org/websocket/FFFFFF" height="80"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/webrtc/333333" height="80"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/redis/DC382D" height="80"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/agora/099DFD" height="80"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coturn-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AgoraRTC-099DFD?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/coturn/00599C" height="80"/>
+
+<br/><br/>
+
+<b>WebSocket · WebRTC · Coturn · Redis · AgoraRTC</b>
 
 </td>
 
@@ -122,11 +141,15 @@ const ahmetBartuNak = {
 
 ### ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,aws,firebase,kubernetes,githubactions,linux&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,firebase,kubernetes,githubactions,linux&theme=dark&perline=7" height="80"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/uvicorn/FFFFFF" height="80"/>
+
+<br/><br/>
+
+<b>Uvicorn</b>
 
 </td>
 
@@ -138,11 +161,15 @@ const ahmetBartuNak = {
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark&perline=2"/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark&perline=2" height="80"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="80"/>
+
+<br/><br/>
+
+<b>T-SQL</b>
 
 </td>
 
@@ -150,12 +177,17 @@ const ahmetBartuNak = {
 
 ### ⚙️ Other
 
-<img src="https://skillicons.dev/icons?i=git,vite&theme=dark&perline=2"/>
+<img src="https://skillicons.dev/icons?i=git,vite&theme=dark&perline=2" height="80"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SMTP-FF6C37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Payment_Gateways-0A0A0A?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/maildotru/FF6C37" height="80"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/stripe/635BFF" height="80"/>
+
+<br/><br/>
+
+<b>SMTP · Payment Gateways</b>
 
 </td>
 
@@ -163,7 +195,6 @@ const ahmetBartuNak = {
 </table>
 
 </div>
-
 
 ---
 
