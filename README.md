@@ -65,11 +65,7 @@ const ahmetBartuNak = {
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs&theme=dark&perline=5"/>
-
-<br/>
-
-![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square\&logo=postgresql\&logoColor=4169E1)
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,sql&theme=dark&perline=6"/>
 
 </td>
 
@@ -77,13 +73,11 @@ const ahmetBartuNak = {
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=django,nodejs,nestjs,express&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=django,nodejs,nestjs,express,celery&theme=dark&perline=5"/>
 
-<br/>
+<br/><br/>
 
-![Django REST](https://img.shields.io/badge/Django_REST_Framework-161B22?style=flat-square\&logo=django\&logoColor=44B78B)
-![Celery](https://img.shields.io/badge/Celery-161B22?style=flat-square\&logo=celery\&logoColor=37814A)
-![JWT](https://img.shields.io/badge/JWT-161B22?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=jwt&theme=dark&perline=1"/>
 
 </td>
 
@@ -95,12 +89,11 @@ const ahmetBartuNak = {
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,bootstrap&theme=dark&perline=7"/>
 
-<br/>
+<br/><br/>
 
-![React Native](https://img.shields.io/badge/React_Native-161B22?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-161B22?style=flat-square\&logo=bootstrap\&logoColor=7952B3)
+<img src="https://skillicons.dev/icons?i=reactnative&theme=dark&perline=1"/>
 
 </td>
 
@@ -108,14 +101,15 @@ const ahmetBartuNak = {
 
 ### 🔌 Real-Time & Systems
 
-<img src="https://skillicons.dev/icons?i=redis&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=redis,webrtc&theme=dark&perline=4"/>
 
-<br/>
+<br/><br/>
 
-![WebSocket](https://img.shields.io/badge/WebSockets-161B22?style=flat-square\&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-161B22?style=flat-square\&logo=webrtc\&logoColor=333333)
-![Coturn](https://img.shields.io/badge/Coturn-161B22?style=flat-square\&logoColor=00599C)
-![Agora](https://img.shields.io/badge/AgoraRTC-161B22?style=flat-square\&logoColor=099DFD)
+<img src="https://skillicons.dev/icons?i=socketio&theme=dark&perline=1"/>
+
+<br/><br/>
+
+**WebSockets · Coturn · AgoraRTC**
 
 </td>
 
@@ -127,13 +121,15 @@ const ahmetBartuNak = {
 
 ### ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,aws,kubernetes,githubactions,linux&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,kubernetes,githubactions,linux,firebase&theme=dark&perline=7"/>
 
-<br/>
+<br/><br/>
 
-![Uvicorn](https://img.shields.io/badge/Uvicorn-161B22?style=flat-square\&logo=uvicorn\&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-161B22?style=flat-square\&logo=gunicorn\&logoColor=499848)
-![Firebase](https://img.shields.io/badge/Firebase-161B22?style=flat-square\&logo=firebase\&logoColor=FFCA28)
+<img src="https://skillicons.dev/icons?i=ubuntu&theme=dark&perline=1"/>
+
+<br/><br/>
+
+**Uvicorn · Gunicorn**
 
 </td>
 
@@ -153,12 +149,7 @@ const ahmetBartuNak = {
 
 ### 🧰 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vite,postman,figma&theme=dark&perline=5"/>
-
-<br/>
-
-![Swagger](https://img.shields.io/badge/Swagger-161B22?style=flat-square\&logo=swagger\&logoColor=85EA2D)
-![Axios](https://img.shields.io/badge/Axios-161B22?style=flat-square\&logo=axios\&logoColor=5A29E4)
+<img src="https://skillicons.dev/icons?i=git,github,vite,postman,figma,swagger,axios&theme=dark&perline=7"/>
 
 </td>
 
@@ -227,7 +218,7 @@ const ahmetBartuNak = {
 * 🌌 [Aurora](https://github.com/bart2n/aurora)
 * 🧮 [Morgate Calculator](https://github.com/bart2n/morgate-calculator)
 
-</details>
+
 
 <details>
 <summary><b>💻 Getap — Full-Stack Developer</b></summary>
