@@ -135,6 +135,7 @@ const ahmetBartuNak = {
 * 🏛️ [Ivory](https://github.com/bart2n/Ivory)
 * 🌌 [Aurora](https://github.com/bart2n/aurora)
 * 🧮 [Morgate Calculator](https://github.com/bart2n/morgate-calculator)
+* 🎈 [DpInflatablesPT](https://github.com/bart2n/DpinflateablesPT)
 
 
 
@@ -148,13 +149,6 @@ const ahmetBartuNak = {
 * 🚀 Developed full-stack web applications
 * 🐍 Worked with **Django & Django REST Framework**
 * ⚛️ Developed modern frontend applications with **React**
-* 🔌 Implemented real-time communication using **WebSockets**
-* 🔴 Worked with **Redis** and asynchronous systems
-* 🐳 Used **Docker** for development and deployment
-* ☁️ Worked with cloud infrastructure and application deployment
-* 🔐 Developed authentication and authorization systems
-* 🌐 Managed website deployment and production environments
-* 🔄 Worked with **Git** and collaborative development workflows
 
 
 
@@ -167,9 +161,7 @@ const ahmetBartuNak = {
 * 💻 Contributed to web application development
 * 🐍 Worked with **Python & Django**
 * ⚛️ Worked on frontend development
-* 🌐 Assisted with website deployment and maintenance
-* 🔧 Used **Git** and collaborative development workflows
-* 🚀 Gained hands-on experience with production-oriented software development
+
 
 
 
