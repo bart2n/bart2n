@@ -65,15 +65,21 @@ const ahmetBartuNak = {
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs&theme=dark&perline=5" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75"/>
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/mysql/4479A1" height="80"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="75"/>
 
-<br/><br/>
+<br/>
 
 <b>SQL</b>
 
@@ -83,15 +89,17 @@ const ahmetBartuNak = {
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=django,nestjs,nextjs&theme=dark&perline=3" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="75"/>
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/djangorestframework/FF1709" height="80"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/celery/37814A" height="80"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/redis/DC382D" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="75"/>
 
 <br/><br/>
 
@@ -107,7 +115,23 @@ const ahmetBartuNak = {
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,redux,tailwind,bootstrap,html,css&theme=dark&perline=4" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="75"/>
+
+<br/><br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="75"/>
 
 </td>
 
@@ -115,17 +139,17 @@ const ahmetBartuNak = {
 
 ### 🔌 Real-Time & Systems
 
-<img src="https://cdn.simpleicons.org/websocket/FFFFFF" height="80"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/webrtc/333333" height="80"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/redis/DC382D" height="80"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/agora/099DFD" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webrtc/webrtc-original.svg" width="75"/>
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/coturn/00599C" height="80"/>
+<img src="https://cdn.simpleicons.org/websocket/FFFFFF" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/coturn/FFFFFF" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/agora/099DFD" width="75"/>
 
 <br/><br/>
 
@@ -141,13 +165,27 @@ const ahmetBartuNak = {
 
 ### ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,aws,firebase,kubernetes,githubactions,linux&theme=dark&perline=7" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="75"/>
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/uvicorn/FFFFFF" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75"/>
 
 <br/><br/>
+
+<img src="https://cdn.simpleicons.org/uvicorn/FFFFFF" width="75"/>
+
+<br/>
 
 <b>Uvicorn</b>
 
@@ -161,11 +199,9 @@ const ahmetBartuNak = {
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark&perline=2" height="80"/>
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="75"/>
 
 <br/><br/>
 
@@ -177,13 +213,15 @@ const ahmetBartuNak = {
 
 ### ⚙️ Other
 
-<img src="https://skillicons.dev/icons?i=git,vite&theme=dark&perline=2" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="75"/>
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/maildotru/FF6C37" height="80"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/stripe/635BFF" height="80"/>
+<img src="https://cdn.simpleicons.org/smtp/FFFFFF" width="75"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/payment/FFFFFF" width="75"/>
 
 <br/><br/>
 
