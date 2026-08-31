@@ -172,7 +172,7 @@ const ahmetBartuNak = {
 * 🚀 Gained hands-on experience with production-oriented software development
 
 
----
+
 </div>
 
 
@@ -234,14 +234,7 @@ A full-stack Learning Management System designed for managing courses, users and
 
 </tr>
 
-<tr>
 
-<td width="50%" valign="top">
-
-
-</td>
-
-</tr>
 </table>
 
 </div>
