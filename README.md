@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=0&section=header" width="100%"/>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:0d1117&height=220&text=Ahmet%20Bartu%20NAK&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=65&descAlign=50&descColor=8B949E" width="100%"/>
